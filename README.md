@@ -12,7 +12,7 @@ Projeto de uma lista de presença utilizada para aprender Reactjs no Especializa
   <img src=".github/preview.png" width="100%">
 </p>
 
- <h2 align="center"><a href="#" target="_blank">Projeto ao vivo</a></h2>
+ <h2 align="center"><a href="list-react-five.vercel.app/" target="_blank">Projeto ao vivo</a></h2>
 
 ### 🚀 Tecnologias
 
